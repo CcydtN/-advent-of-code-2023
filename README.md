@@ -1,6 +1,6 @@
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2023
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
@@ -60,7 +60,7 @@ Every [solution](https://github.com/fspoettel/advent-of-code-rust/blob/main/src/
 ### Download input & description for a day
 
 > [!IMPORTANT] 
-> This command requires [installing the aoc-cli crate](#configure-aoc-cli-integration).
+> This command requires [installing the aoc-cli create](#configure-aoc-cli-integration).
 
 ```sh
 # example: `cargo download 1`
@@ -97,7 +97,7 @@ For example, running a benchmarked, optimized execution of day 1 would look like
 #### Submitting solutions
 
 > [!IMPORTANT]
-> This command requires [installing the aoc-cli crate](#configure-aoc-cli-integration).
+> This command requires [installing the aoc-cli create](#configure-aoc-cli-integration).
 
 In order to submit part of a solution for checking, append the `--submit <part>` option to the `solve` command.
 
@@ -148,7 +148,7 @@ cargo clippy
 ### Read puzzle description in terminal
 
 > [!IMPORTANT]
-> This command requires [installing the aoc-cli crate](#configure-aoc-cli-integration).
+> This command requires [installing the aoc-cli create](#configure-aoc-cli-integration).
 
 ```sh
 # example: `cargo read 1`
@@ -211,7 +211,7 @@ Uncomment the respective sections in the `ci.yml` workflow.
 
 A curated list of popular crates can be found on [blessred.rs](https://blessed.rs/crates).
 
-Do you have aoc-specific crate recommendations? [Share them!](https://github.com/fspoettel/advent-of-code-rust/edit/main/README.md)
+Do you have aoc-specific create recommendations? [Share them!](https://github.com/fspoettel/advent-of-code-rust/edit/main/README.md)
 
 ## Common pitfalls
 
